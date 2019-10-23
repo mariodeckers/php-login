@@ -1,6 +1,4 @@
-# codeshack-login
-
-Secure Login System with PHP and MySQL
+# Secure Login System with PHP and MySQL
 
 This code results from following tutorial at https://codeshack.io/secure-login-system-php-mysql/.
 
