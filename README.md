@@ -1,4 +1,4 @@
-# Secure Login System with PHP and MySQL
+# PHP User authentication system
 
 >Features: login, logout, view profile
 
