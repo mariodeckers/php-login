@@ -1,3 +1,8 @@
+<!-- 
+Create database 'phplogin' and create table with below SQL 
+It has one user 'test' pw 'test'
+-->
+
 CREATE TABLE IF NOT EXISTS `accounts` (
 	`id` int(11) NOT NULL AUTO_INCREMENT,
   	`username` varchar(50) NOT NULL,
